@@ -1,3 +1,13 @@
+"""
+  Maze exploration and solving using Dijsktra Algorithm
+"""
+
+__author__ = "Koundinya Vinnakota"
+__version__ = "0.1.0"
+__license__ = "MIT"
+
+
+
 import numpy as np
 import cv2
 
