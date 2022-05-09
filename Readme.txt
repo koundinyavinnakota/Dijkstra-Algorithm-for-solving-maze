@@ -1,6 +1,6 @@
 
 
-Github Link : https://github.com/koundinyavinnakota/Dijkstra-Algorithm-for-solving-maze
+Steps to Execute the project:
 
 1.) Extract all the files from the zip file
 2.) To run open terminal and python3 Koundinya-Vinnakota.py file
